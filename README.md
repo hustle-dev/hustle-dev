@@ -39,3 +39,6 @@ Here are some ideas to get you started:
   <a href="mailto:dlwoabsdk@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=dlwoabsdk@gmail.com"/></a>
 </p>
 
+<p align="center">
+  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhustle-dev&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E1DEDE&title=hits&edge_flat=true"/></a>
+</p>
