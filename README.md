@@ -1,6 +1,6 @@
 <!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=JeongMinLee&fontSize=70) -->
 
-<h3 align="center">🎯 Now, The Language I mainly focus on 🎯</h3>
+<h3 align="center">🎯 Mainly focusing on 🎯</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Javascript-F7DF1D?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp 
 </p>
