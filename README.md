@@ -9,9 +9,9 @@
 
 <div align="center" style="text-align:center">
   
-  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=hustle-dev&tag=이미지최적화)](https://velog.io/@hustle-dev/%EC%9B%B9-%EC%84%B1%EB%8A%A5%EC%9D%84-%EC%9C%84%ED%95%9C-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EC%B5%9C%EC%A0%81%ED%99%94)
+  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=hustle-dev&tag=네카라쿠배)](https://velog.io/@hustle-dev/%EC%9B%B9-%EC%84%B1%EB%8A%A5%EC%9D%84-%EC%9C%84%ED%95%9C-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EC%B5%9C%EC%A0%81%ED%99%94)
   <br>
-  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=hustle-dev&tag=웹-바이탈)](https://velog.io/@hustle-dev/Web-Vitals-CSS-for-Web-Vitals)
+  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=hustle-dev&tag=js)](https://velog.io/@hustle-dev/Web-Vitals-CSS-for-Web-Vitals)
   
 </div>
 
