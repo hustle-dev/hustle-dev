@@ -9,9 +9,9 @@
 
 <div align="center" style="text-align:center">
   
-  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=hustle-dev&tag=네카라쿠배)](https://velog.io/@hustle-dev/%EC%9B%B9-%EC%84%B1%EB%8A%A5%EC%9D%84-%EC%9C%84%ED%95%9C-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EC%B5%9C%EC%A0%81%ED%99%94)
+  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=hustle-dev&tag=네카라쿠배)](https://velog-readme-stats.vercel.app/api/redirect?name=hustle-dev&tag=네카라쿠배)
   <br>
-  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=hustle-dev&tag=js)](https://velog.io/@hustle-dev/series/%EB%84%A4%EC%B9%B4%EB%9D%BC%EC%BF%A0%EB%B0%B0-2%EA%B8%B0)
+  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=hustle-dev&tag=js)](https://velog-readme-stats.vercel.app/api/redirect?name=hustle-dev&tag=js)
   
 </div>
 
