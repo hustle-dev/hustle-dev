@@ -12,6 +12,8 @@
   [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=hustle-dev&tag=네카라쿠배)](https://velog-readme-stats.vercel.app/api/redirect?name=hustle-dev&tag=네카라쿠배)
   <br>
   [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=hustle-dev&tag=개인공부)](https://velog-readme-stats.vercel.app/api/redirect?name=hustle-dev&tag=개인공부)
+  <br>
+  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=hustle-dev&tag=미니프로젝트)](https://velog-readme-stats.vercel.app/api/redirect?name=hustle-dev&tag=미니프로젝트)
 
   
 </div>
