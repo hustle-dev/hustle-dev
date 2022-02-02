@@ -13,7 +13,7 @@
   
   [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=hustle-dev&tag=이미지최적화)](https://velog-readme-stats.vercel.app/api/redirect?name=hustle-dev&tag=이미지최적화)
   <br>
-  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=hustle-dev&tag=개인공부)](https://velog-readme-stats.vercel.app/api/redirect?name=hustle-dev&tag=개인공부)
+  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=hustle-dev&tag=회고)](https://velog-readme-stats.vercel.app/api/redirect?name=hustle-dev&tag=회고)
 
   
 </div>
