@@ -14,9 +14,9 @@
   
  <!-- [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=hustle-dev&tag=회고)](https://velog-readme-stats.vercel.app/api/redirect?name=hustle-dev&tag=회고) -->
   
- <!-- [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=hustle-dev)](https://velog-readme-stats.vercel.app/api/redirect?name=hustle-dev) -->
+ [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=hustle-dev)](https://velog-readme-stats.vercel.app/api/redirect?name=hustle-dev)
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=hustle-dev)](https://velog.io/@hustle-dev) 
+<!-- [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=hustle-dev)](https://velog.io/@hustle-dev)  -->
   
 </div>
 
